@@ -1,0 +1,1 @@
+SELECT Name FROM Account WHERE CreatedDate = LAST_N_DAYS:30
